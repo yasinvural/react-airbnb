@@ -1,3 +1,12 @@
+![](screenshots/ss1.png)
+
+
+![](screenshots/ss2.png)
+
+
+![](screenshots/ss3.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
