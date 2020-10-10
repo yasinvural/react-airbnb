@@ -1,0 +1,19 @@
+.footer {
+  border-top: 1px solid lightgray;
+  padding: 20px 70px;
+  background-color: #f7f7f7;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer__left{
+  display: flex;
+  font-size: 14px;
+}
+
+.footer__right > svg{
+  cursor: pointer;
+  margin-left: 10px;
+}
+
